@@ -3,7 +3,7 @@ export default function Home() {
     <main className="flex flex-col w-full min-h-screen">
       
       {/* 1. SEÇÃO PRINCIPAL (HERO) */}
-      <section id="inicio" className="relative min-h-[85vh] flex flex-col items-center justify-center p-6 bg-[url('/predio.jpg')] bg-cover bg-center">
+      <section id="inicio" className="relative min-h-[85vh] flex flex-col items-center justify-center p-6 bg-[url('/predio-principal.jpg')] bg-cover bg-center">
         <div className="absolute inset-0 bg-slate-950/70 z-0"></div>
         
         <div className="relative z-10 flex flex-col items-center mb-10 text-center max-w-4xl">
@@ -118,7 +118,7 @@ export default function Home() {
           {/* Imagem Sobre Nós */}
           <div className="md:w-1/2 relative w-full">
              <div className="aspect-square md:aspect-4/3 w-full bg-slate-800 rounded-sm overflow-hidden relative border border-slate-700 shadow-2xl">
-                <div className="absolute inset-0 bg-[url('/predio.jpg')] bg-cover bg-center opacity-70 mix-blend-luminosity hover:mix-blend-normal transition-all duration-700"></div>
+                <div className="absolute inset-0 bg-[url('/')] bg-cover bg-center opacity-70 mix-blend-luminosity hover:mix-blend-normal transition-all duration-700"></div>
                 <div className="absolute inset-0 border-2 border-yellow-600/20 m-4 rounded-sm z-10 pointer-events-none"></div>
              </div>
              {/* Detalhe Flutuante */}
