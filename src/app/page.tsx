@@ -14,11 +14,11 @@ export default function Home() {
             Incorporadora
           </p>
           <p className="mt-10 text-xl md:text-2xl text-gray-300 font-light leading-relaxed">
-            Projetamos exclusividade. Construímos o extraordinário. Conheça o novo padrão de luxo e sofisticação em São José.
+            Projetamos exclusividade. Construímos o extraordinário. Conheça o nosso padrão e sofisticação em São José.
           </p>
           <button className="mt-12 px-10 py-4 bg-yellow-600 text-slate-950 font-bold uppercase tracking-widest rounded-sm shadow-[0_0_30px_rgba(202,138,4,0.3)] hover:bg-yellow-500 hover:shadow-[0_0_40px_rgba(202,138,4,0.5)] transition-all duration-300 transform hover:-translate-y-1">
             Descubra Nossos Empreendimentos
-          </button>
+          </button>git 
         </div>
       </section>
 
